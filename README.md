@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isaackabucho
-- 👀 I’m interested in coding and networking
-- 🌱 I’m currently learning a degree in computer science
+- 👀 I am a software and web developer in Kenya working both local and remote
+- 🌱 I have a degree in computer science
 - 💞️ I’m looking to collaborate on building systems to solve the modern day problems
 - 📫 How to reach me .reach me on isaackabucho9@gmail.com
 
