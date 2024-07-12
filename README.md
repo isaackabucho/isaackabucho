@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isaac Kabucho</h1>
 <h3 align="center">A passionate full stack developer in Nairobi Kenya</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isaackabucho" alt="isaackabucho" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/isaackabucho](https://github.com/isaackabucho)
 
 - 💬 Ask me about **PHP, Laravel, Django, React, JavaScript**
