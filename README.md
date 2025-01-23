@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **isaackabucho9@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1mroiNa-4p2uhYdB7ovXusUIUbXgwY8NQ/view?usp=sharing](https://drive.(https://drive.google.com/file/d/134E2iRy5lhmW0N5juGDuSUO4W0sDqOpY/view?usp=drive_link))]
+- 📄 Know about my experiences [https://drive.google.com/file/d/134E2iRy5lhmW0N5juGDuSUO4W0sDqOpY/view?usp=drive_link](https://drive.google.com/file/d/134E2iRy5lhmW0N5juGDuSUO4W0sDqOpY/view?usp=drive_link)
 
-- ⚡ Fun fact **I love tech blogs and articles**
+- ⚡ Fun fact **I consider 'It works on my machine' a valid reason… sometimes 🤔.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
