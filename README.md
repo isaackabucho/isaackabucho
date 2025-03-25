@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/134E2iRy5lhmW0N5juGDuSUO4W0sDqOpY/view?usp=drive_link](https://drive.google.com/file/d/134E2iRy5lhmW0N5juGDuSUO4W0sDqOpY/view?usp=drive_link)
 
-- ⚡ Fun fact **I consider 'It works on my machine' a valid reason… sometimes 🤔.**
+- ⚡ **It works on my machine.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
