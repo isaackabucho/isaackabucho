@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **isaackabucho9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/134E2iRy5lhmW0N5juGDuSUO4W0sDqOpY/view?usp=drive_link](https://drive.google.com/file/d/134E2iRy5lhmW0N5juGDuSUO4W0sDqOpY/view?usp=drive_link)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/134E2iRy5lhmW0N5juGDuSUO4W0sDqOpY/view?usp=drive_link](https://drive.google.com/file/d/134E2iRy5lhmW0N5juGDuSUO4W0sDqOpY/view?usp=sharing_link)
+  
 - ⚡ **It works on my machine.**
 
 <h3 align="left">Connect with me:</h3>
