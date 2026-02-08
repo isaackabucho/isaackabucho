@@ -10,7 +10,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ijYvOQr3R6Sg8Lv3qRW0qltPy6ApU8vs/view?usp=drive_link](https://drive.google.com/file/d/1ijYvOQr3R6Sg8Lv3qRW0qltPy6ApU8vs/view?usp=drive_link)
   
 - ⚡ **It works on my machine.**
-- 
 - ⚡ I enjoy tech updates and trends from people like **Low Level Learning, ThePrimeagen, Theotgg, and the infamous Fireship**
 
 ###
