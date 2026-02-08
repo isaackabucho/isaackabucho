@@ -3,13 +3,15 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/isaackabucho](https://github.com/isaackabucho)
 
-- 💬 Ask me about **PHP, Laravel, Django, React, JavaScript**
+- 💬 Ask me about **PHP, Laravel, Python, Django, JavaScript, React, Machine Learning in this age of Artificial intelligence (AI)**
 
 - 📫 How to reach me **isaackabucho9@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EXTlMQWYGEkjlcs-6WBUW5hZp96FYwvS/view?usp=sharing_link](https://drive.google.com/file/d/1EXTlMQWYGEkjlcs-6WBUW5hZp96FYwvS/view?usp=sharing_link)
+  
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ijYvOQr3R6Sg8Lv3qRW0qltPy6ApU8vs/view?usp=drive_link](https://drive.google.com/file/d/1ijYvOQr3R6Sg8Lv3qRW0qltPy6ApU8vs/view?usp=drive_link)
   
 - ⚡ **It works on my machine.**
+- 
+- ⚡ I enjoy tech updates and trends from people like **Low Level Learning, ThePrimeagen, Theotgg, and the infamous Fireship**
 
 ###
 
